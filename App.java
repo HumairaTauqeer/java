@@ -15,6 +15,7 @@ class App {
          userNumber.charAt(1)+"\n"+
          userNumber.charAt(2)+"\n"+
          userNumber.charAt(3));
+         userInput.close();
         
     }
 }
